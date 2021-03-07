@@ -6,4 +6,4 @@ metadata:
 spec:
   containers:
     - name: nginx-color
-      image: kubedevio/nginx-color:green
+      image: kubedevio/nginx-color:blue
